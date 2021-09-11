@@ -3692,7 +3692,11 @@ input, select, textarea {
 		color:cyan;
 	}
 
-	
-	/* #FinLearn-desc { */
-		font-size: smaller;
+	#guitar  {
+		/* border: 1px solid #ddd; */
+		border-radius: 10px;
+		padding: 5px;
+		width: 200px;
 	}
+
+	
