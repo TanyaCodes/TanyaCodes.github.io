@@ -1,6 +1,6 @@
 # Personal Website/ Portfolio
 
-This is a simple website as I use as a resume and portfolio. It's hosted on GitHub pages. \
+This is a simple website that I use as a resume and portfolio. It's hosted on GitHub pages. \
 There are several links which visitors of the website can click on:
 - my CV - this is a link to Google Drive where my updated CV is saved
 - project links:
@@ -15,7 +15,7 @@ There are several links which visitors of the website can click on:
 - [More portfolio resources](https://discuss.codecademy.com/t/guide-how-to-build-a-web-dev-portfolio/394816?utm_source=youtube&utm_medium=organic-social&utm_campaign=codecademy_101_series&utm_content=yt_remembering_what_you_learn) 
 	
 ### GitHub Actions
-Every time I update my CV, I would also need to update the link to my CV in the website. I sometimes forget and lose track if I've updated the websit already. To help me keep track, I made a workflow that makes a record on a Google Sheets file every time I push to my repo.
+Every time I update my CV, I would also need to update the link to my CV in the website. I sometimes forget and lose track if I've updated the website already. To help me keep track, I made a workflow that makes a record on a Google Sheets file every time I push to my repo.
 
 Here are the steps to set up the workflow:
 1. Create a free account in https://ifttt.com/explore. This allows you to have three free applets.
