@@ -1,7 +1,7 @@
 **Personal Website/ Portfolio**\
 This is a simple website as I use as a resume and portfolio. It's hosted on GitHub pages. \
 There are several links which visitors of the website can click on:\
-	* my CV - this is a link to Google Drive where my updated CV is saved\
+	- my CV - this is a link to Google Drive where my updated CV is saved\
 	&nbsp;&nbsp; * project links:\
 	&nbsp;&nbsp; * FinLearn links - a link to our group pitch presentation in Googled Drive, and a link to the Figma prototype\
 	&nbsp;&nbsp; * ChoreDoor - the code is saved in a repo in my GitHub that is deployed through GitHub pages\
