@@ -27,8 +27,8 @@ Here are the steps to set up the workflow:\
 &nbsp;&nbsp;7. Choose "Add row to spreadsheet". You may choose to make certain edits to the rows or leave the default as is. Click "Create Action".\
 &nbsp;&nbsp;8. In your IFTTT dashboard, click the round profile avatar in the upper right. Then click "My Services". Choose "Webhooks". Click "Documentation".\
 &nbsp;&nbsp;9. Replace {event} in the first box with the event name that you gave in Step 5. Then copy the curl command.\
-&nbsp;&nbsp;10. Update the bottom of your yml file by pasting the curl command. Commit changes.\
-
+&nbsp;&nbsp;10. Create a basic workflow .yml file. Go to actions then click "set up a workflow yourself". \
+&nbsp;&nbsp;11. Update the bottom of your yml file by pasting the curl command. Commit changes. \
 
 
 
