@@ -7,7 +7,7 @@ There are several links which visitors of the website can click on:
 	- ChoreDoor - the code is saved in a repo in my GitHub that is deployed through GitHub pages
 	- Music Con - the code is saved in a repo in my GitHub that is deployed through GitHub pages
 	
-**Resources and references:**\
+**Resources and references:**
 - [HTML templates with a variety of themes to choose from](https://html5up.net/) 
 - [Portfolio Tutorial](https://www.youtube.com/watch?v=u-RLu_8kwA0&t=137s) 
 - [Deploying to GitHub Pages](https://www.codecademy.com/articles/f1-u3-github-pages) 
@@ -17,17 +17,17 @@ There are several links which visitors of the website can click on:
 Every time I update my CV, I would also need to update the link to my CV in the website. I sometimes forget and lose track if I've updated the websit already. To help me keep track, I made a workflow that makes a record on a Google Sheets file every time I push to my repo.
 
 Here are the steps to set up the workflow:\
-1. Create a free account in https://ifttt.com/explore. This allows you to have three free applets.\
-2. Click the "create" button.\
-&nbsp;&nbsp;3. Click "If this". Then type "webhooks" in the search box and click on the webhooks icon.\
-&nbsp;&nbsp;4. Click "Receive a web request".\
-&nbsp;&nbsp;5. Give an event name in the box (ex. button_pressed). Click "create trigger" button.\
-&nbsp;&nbsp;6. Click "Then that". Click on the desired action. In this case "Google Sheets". You will be prompted to link your Google Drive account to IFTTT.\
-&nbsp;&nbsp;7. Choose "Add row to spreadsheet". You may choose to make certain edits to the rows or leave the default as is. Click "Create Action".\
-&nbsp;&nbsp;8. In your IFTTT dashboard, click the round profile avatar in the upper right. Then click "My Services". Choose "Webhooks". Click "Documentation".\
-&nbsp;&nbsp;9. Replace {event} in the first box with the event name that you gave in Step 5. Then copy the curl command.\
-&nbsp;&nbsp;10. Create a basic workflow .yml file. Go to actions then click "set up a workflow yourself". \
-&nbsp;&nbsp;11. Update the bottom of your yml file by pasting the curl command. Commit changes. 
+1. Create a free account in https://ifttt.com/explore. This allows you to have three free applets.
+2. Click the "create" button.
+3. Click "If this". Then type "webhooks" in the search box and click on the webhooks icon.
+4. Click "Receive a web request".
+5. Give an event name in the box (ex. button_pressed). Click "create trigger" button.
+6. Click "Then that". Click on the desired action. In this case "Google Sheets". You will be prompted to link your Google Drive account to IFTTT.
+7. Choose "Add row to spreadsheet". You may choose to make certain edits to the rows or leave the default as is. Click "Create Action".
+8. In your IFTTT dashboard, click the round profile avatar in the upper right. Then click "My Services". Choose "Webhooks". Click "Documentation".
+9. Replace {event} in the first box with the event name that you gave in Step 5. Then copy the curl command.
+10. Create a basic workflow .yml file. Go to actions then click "set up a workflow yourself". 
+11. Update the bottom of your yml file by pasting the curl command. Commit changes. 
 
 
 
