@@ -23,12 +23,12 @@ Here are the steps to set up the workflow:
 3. Click "If this". Then type "webhooks" in the search box and click on the webhooks icon.
 4. Click "Receive a web request".
 5. Give an event name in the box (ex. button_pressed). Click "create trigger" button.
-6. Click "Then that". Click on the desired action. In this case "Google Sheets". You will be prompted to link your Google Drive account to IFTTT.
+6. Click "Then that". Click on the desired action. In this case, click "Google Sheets". You will be prompted to link your Google Drive account to IFTTT.
 7. Choose "Add row to spreadsheet". You may choose to make certain edits to the rows or leave the default as is. Click "Create Action".
 8. In your IFTTT dashboard, click the round profile avatar in the upper right. Then click "My Services". Choose "Webhooks". Click "Documentation".
 9. Replace {event} in the first box with the event name that you gave in Step 5. Then copy the curl command.
 10. Create a basic workflow .yml file. Go to actions then click "set up a workflow yourself". 
-11. Update the bottom of your yml file by pasting the curl command. Commit changes. 
+11. Update the bottom of your .yml file by pasting the curl command. Commit changes. 
 
 
 
