@@ -8,7 +8,7 @@ There are several links which visitors of the website can click on:
 	- ChoreDoor - the code is saved in a repo in my GitHub that is deployed through GitHub pages
 	- Music Con - the code is saved in a repo in my GitHub that is deployed through GitHub pages
 	
-### Resources and references:
+### Resources and references
 - [HTML templates with a variety of themes to choose from](https://html5up.net/) 
 - [Portfolio Tutorial](https://www.youtube.com/watch?v=u-RLu_8kwA0&t=137s) 
 - [Deploying to GitHub Pages](https://www.codecademy.com/articles/f1-u3-github-pages) 
