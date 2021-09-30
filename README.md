@@ -14,8 +14,8 @@ There are several links which visitors of the website can click on:\
 	&nbsp;&nbsp; * [Deploying to GitHub Pages](https://www.codecademy.com/articles/f1-u3-github-pages) \
 	&nbsp;&nbsp; * [More portfolio resources](https://discuss.codecademy.com/t/guide-how-to-build-a-web-dev-portfolio/394816?utm_source=youtube&utm_medium=organic-social&utm_campaign=codecademy_101_series&utm_content=yt_remembering_what_you_learn) 
 	
-**GitHub Actions**
-Every time I updated my CV, I would also need to update the link to my CV in the website. I sometimes forget and lose track if I've updated the websit already. To help me keep track, I made a workflow that makes a record on a Google Sheets file every time I push to my repo.
+**GitHub Actions**\
+Every time I update my CV, I would also need to update the link to my CV in the website. I sometimes forget and lose track if I've updated the websit already. To help me keep track, I made a workflow that makes a record on a Google Sheets file every time I push to my repo.
 
 Here are the steps to set up the workflow:\
 &nbsp;&nbsp;1. Create a free account in https://ifttt.com/explore. This allows you to have three free applets.\
