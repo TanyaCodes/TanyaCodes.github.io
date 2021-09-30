@@ -1,4 +1,4 @@
-#Personal Website/ Portfolio\
+#Personal Website/ Portfolio
 ======
 This is a simple website as I use as a resume and portfolio. It's hosted on GitHub pages. \
 There are several links which visitors of the website can click on:
