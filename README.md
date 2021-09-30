@@ -1,6 +1,6 @@
 **Personal Website/ Portfolio**\
 This is a simple website as I use as a resume and portfolio. It's hosted on GitHub pages. \
-There are several links which visitors of the website can click on:\
+There are several links which visitors of the website can click on:
 - my CV - this is a link to Google Drive where my updated CV is saved
 - project links:
 	- FinLearn links - a link to our group pitch presentation in Googled Drive, and a link to the Figma prototype
@@ -8,17 +8,17 @@ There are several links which visitors of the website can click on:\
 	- Music Con - the code is saved in a repo in my GitHub that is deployed through GitHub pages
 	
 **Resources and references:**\
-- [HTML templates with a variety of themes to choose from](https://html5up.net/) \
-- [Portfolio Tutorial](https://www.youtube.com/watch?v=u-RLu_8kwA0&t=137s) \
-- [Deploying to GitHub Pages](https://www.codecademy.com/articles/f1-u3-github-pages) \
+- [HTML templates with a variety of themes to choose from](https://html5up.net/) 
+- [Portfolio Tutorial](https://www.youtube.com/watch?v=u-RLu_8kwA0&t=137s) 
+- [Deploying to GitHub Pages](https://www.codecademy.com/articles/f1-u3-github-pages) 
 - [More portfolio resources](https://discuss.codecademy.com/t/guide-how-to-build-a-web-dev-portfolio/394816?utm_source=youtube&utm_medium=organic-social&utm_campaign=codecademy_101_series&utm_content=yt_remembering_what_you_learn) 
 	
 **GitHub Actions**\
 Every time I update my CV, I would also need to update the link to my CV in the website. I sometimes forget and lose track if I've updated the websit already. To help me keep track, I made a workflow that makes a record on a Google Sheets file every time I push to my repo.
 
 Here are the steps to set up the workflow:\
-&nbsp;&nbsp;1. Create a free account in https://ifttt.com/explore. This allows you to have three free applets.\
-&nbsp;&nbsp;2. Click the "create" button.\
+1. Create a free account in https://ifttt.com/explore. This allows you to have three free applets.\
+2. Click the "create" button.\
 &nbsp;&nbsp;3. Click "If this". Then type "webhooks" in the search box and click on the webhooks icon.\
 &nbsp;&nbsp;4. Click "Receive a web request".\
 &nbsp;&nbsp;5. Give an event name in the box (ex. button_pressed). Click "create trigger" button.\
