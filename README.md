@@ -1,8 +1,7 @@
 # Personal Website/ Portfolio
 
 This is a simple website that I use as a resume and portfolio. It's hosted on GitHub pages. \
-![Screenshot (450)](https://user-images.githubusercontent.com/86521924/135814520-3ef51cbc-c5dc-4682-92ec-327ed1dac7bb.png)
-
+![Screenshot 1_Resized](https://user-images.githubusercontent.com/86521924/135815387-f39af38f-110f-4df6-9e5e-78f5b2d71add.png)
 There are several links which visitors of the website can click on:
 - my CV - this is a link to Google Drive where my updated CV is saved
 - project links:
