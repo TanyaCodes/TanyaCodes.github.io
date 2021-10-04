@@ -18,7 +18,7 @@ There are several links which visitors of the website can click on:
 ### GitHub Actions
 Every time I update my CV, I would also need to update the link to my CV in the website. I sometimes forget and lose track if I've updated the website already. To help me keep track, I made a workflow that makes a record on a Google Sheets file every time I push to my repo.
 (![Screenshot (446)](https://user-images.githubusercontent.com/86521924/135812905-b6a3a3a5-67e9-42ec-9ec6-876d5f2c16e4.png)
-)
+
 
 Here are the steps to set up the workflow:
 1. Create a free account in https://ifttt.com/explore. This allows you to have three free applets.
