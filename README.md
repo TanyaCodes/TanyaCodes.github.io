@@ -2,6 +2,7 @@
 
 This is a simple website that I use as a resume and portfolio. It's hosted on GitHub pages.\
 <img src="https://user-images.githubusercontent.com/86521924/135815387-f39af38f-110f-4df6-9e5e-78f5b2d71add.png" width="701px" height="405px" />
+
 There are several links which visitors of the website can click on:
 - my CV - this is a link to Google Drive where my updated CV is saved
 - project links:
@@ -19,7 +20,8 @@ There are several links which visitors of the website can click on:
 Every time I update my CV, I would also need to update the link to my CV in the website. I sometimes forget and lose track if I've updated the website already. To help me keep track, I made a workflow that makes a record on a Google Sheets file every time I push to my repo.
 ![Screenshot 2_Resized](https://user-images.githubusercontent.com/86521924/135815217-e23189f6-1f5c-44a1-a934-02002355c448.png)
 
-<img src="https://user-images.githubusercontent.com/86521924/135815217-e23189f6-1f5c-44a1-a934-02002355c448.png" width="701px" height="405px" />
+<img src="![Screenshot (451)](https://user-images.githubusercontent.com/86521924/135817041-2fdfacaa-9d20-406f-b94e-bae7e1bd7bb3.png)
+" width="801px" height="538px" />
 
 Here are the steps to set up the workflow:
 1. Create a free account in https://ifttt.com/explore. This allows you to have three free applets.
