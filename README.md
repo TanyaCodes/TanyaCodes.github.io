@@ -2,6 +2,8 @@
 
 This is a simple website that I use as a resume and portfolio. It's hosted on GitHub pages.\
 ![Screenshot 1_Resized](https://user-images.githubusercontent.com/86521924/135815387-f39af38f-110f-4df6-9e5e-78f5b2d71add.png)
+<img src="https://user-images.githubusercontent.com/86521924/135815387-f39af38f-110f-4df6-9e5e-78f5b2d71add.png" width="200px" height="200px" />
+
 There are several links which visitors of the website can click on:
 - my CV - this is a link to Google Drive where my updated CV is saved
 - project links:
