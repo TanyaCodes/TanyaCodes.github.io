@@ -15,6 +15,7 @@ There are several links which visitors of the website can click on:
 - [Portfolio Tutorial](https://www.youtube.com/watch?v=u-RLu_8kwA0&t=137s) 
 - [Deploying to GitHub Pages](https://www.codecademy.com/articles/f1-u3-github-pages) 
 - [More portfolio resources](https://discuss.codecademy.com/t/guide-how-to-build-a-web-dev-portfolio/394816?utm_source=youtube&utm_medium=organic-social&utm_campaign=codecademy_101_series&utm_content=yt_remembering_what_you_learn) 
+- [GitHub Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) 
 	
 ### GitHub Actions
 Every time I update my CV, I would also need to update the link to my CV in the website. I sometimes forget and lose track if I've updated the website already. To help me keep track, I made a workflow that makes a record on a Google Sheets file every time I push to my repo.
